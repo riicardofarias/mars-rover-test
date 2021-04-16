@@ -13,7 +13,7 @@ The example of commands is included in root folder.
 Clone git repository
 ```
     $ git clone https://github.com/riicardofarias/mars-rover-test
-    $ cd mars-rover
+    $ cd mars-rover-test
 ```
 
 Install maven dependencies
